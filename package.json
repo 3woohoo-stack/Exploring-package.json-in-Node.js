@@ -1,0 +1,26 @@
+{
+  "name": "documents",
+  "version": "1.0.0",
+  "description": "for class",
+  "homepage": "https://github.com/3woohoo-stack/Exploring-package.json-in-Node.js#readme",
+  "bugs": {
+    "url": "https://github.com/3woohoo-stack/Exploring-package.json-in-Node.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3woohoo-stack/Exploring-package.json-in-Node.js.git"
+  },
+  "license": "ISC",
+  "author": "chance williams",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "thingie.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "jest": "^30.3.0"
+  }
+
+}
